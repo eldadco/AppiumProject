@@ -1,0 +1,10 @@
+The source root is SheinProject dir
+
+---
+Insert desired capabilities via the resources/DesiredCapabilities.xml file
+
+Insert parameters via the resources/Inputs.xml file
+
+Run the resources/AppiumSuite.xml file
+
+After the running and in order to open the allure report, execute via the terminal the following command: allure serve

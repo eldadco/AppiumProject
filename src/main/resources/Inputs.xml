@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<customers>
+    <test id="1">
+        <emailAddress>eldad1234@gmail.com</emailAddress>
+        <password>eldad1234</password>
+        <testType>Positive</testType>
+    </test>
+
+</customers>

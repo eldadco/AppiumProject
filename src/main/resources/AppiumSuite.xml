@@ -1,0 +1,10 @@
+<suite name="Login" verbose="1">
+    <test name="Appium suite">
+        <parameter name="browser" value="chrome"/>
+
+        <classes>
+            <class name = "Tests.LoginTest"/>
+
+        </classes>
+    </test>
+</suite>
