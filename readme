@@ -1,7 +1,6 @@
-The source root is SheinProject dir
 
----
-Insert desired capabilities via the resources/DesiredCapabilities.xml file
+
+Insert the desired capabilities via the resources/DesiredCapabilities.xml file
 
 Insert parameters via the resources/Inputs.xml file
 
