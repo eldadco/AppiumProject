@@ -1,4 +1,6 @@
+Develop mobile automation project on Shein App in Java using appium and testNg. 
 
+Instructions:
 
 Insert the desired capabilities via the resources/DesiredCapabilities.xml file
 
